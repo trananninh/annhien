@@ -30,7 +30,7 @@ obj =
     "subscriptions": {
       "com.background.business.monthly": {
         "billing_issues_detected_at": null,
-        "expires_date": "2995-05-07T02:04:10Z",
+        "expires_date": "2999-09-09T02:04:10Z",
         "grace_period_expires_date": null,
         "is_sandbox": true,
         "original_purchase_date": "2022-05-21T23:58:50Z",
